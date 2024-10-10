@@ -1,4 +1,4 @@
-# skillbox-jCollectionsSearch
+# skillbox-CollectionsSearch
 
 Цель задания
 Научиться сортировать и искать элементы в коллекциях.
